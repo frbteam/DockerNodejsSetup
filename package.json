@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-applicaton-with-docker",
+  "version": "1.0.0",
+  "description": "Federal Reserve Bank Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "author": "Federal Reserve Bank Test",
+  "license": "ISC"
+}
+© 2020 GitHub, Inc.
